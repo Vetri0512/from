@@ -1,0 +1,6 @@
+{
+    "form_id_name":"First Name",
+    "form_id_email":"Email",
+    "form_id_password":"Password",
+    "form_id_confirm_password":"Confirm Password"
+}

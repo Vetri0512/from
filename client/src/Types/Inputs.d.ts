@@ -1,0 +1,1 @@
+export type Form_values = "name"| "phone_no" | "password" | "confirm_password" | "email" 
